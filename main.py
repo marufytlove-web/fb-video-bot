@@ -4,7 +4,7 @@ import yt_dlp
 import glob
 
 # ১. পেজের লিংক (যেখান থেকে ভিডিও নামবে)
-TARGET_PAGE_URL = "https://www.facebook.com/watch/100063631665336" 
+TARGET_PAGE_URL = "https://www.facebook.com/profile.php?id=61560510194649" 
 
 # ২. সিক্রেট কনফিগারেশন
 ACCESS_TOKEN = os.environ.get("FB_ACCESS_TOKEN")
